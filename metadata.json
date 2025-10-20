@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Planilhas de Obra com IA",
+  "description": "Um aplicativo que utiliza Inteligência Artificial para criar planilhas de Excel detalhadas para o gerenciamento de obras a partir da inserção de conhecimento sobre o projeto.",
+  "requestFramePermissions": []
+}
